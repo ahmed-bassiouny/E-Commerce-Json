@@ -1,4 +1,42 @@
-{
-	"id":5,
-	"name" : "ahmed"
-}
+
+[
+	{
+		"id":1,
+		"name" : "Watch 1",
+		"price" : "100",
+		"photo":"https://raw.githubusercontent.com/ahmed-bassiouny/E-Commerce-Json/master/images/1.jpeg"
+	},
+	{
+		"id":2,
+		"name" : "Watch 2",
+		"price" : "200",
+		"photo":"https://raw.githubusercontent.com/ahmed-bassiouny/E-Commerce-Json/master/images/2.jpg"
+	},
+	{
+		"id":3,
+		"name" : "Watch 3",
+		"price" : "300",
+
+		"photo":"https://raw.githubusercontent.com/ahmed-bassiouny/E-Commerce-Json/master/images/3.png"
+	},
+	{
+		"id":4,
+		"name" : "Watch 4",
+		"price" : "400",
+		"photo":"https://raw.githubusercontent.com/ahmed-bassiouny/E-Commerce-Json/master/images/4.jpg"
+	},
+	{
+		"id":5,
+		"name" : "Watch 5",
+		"price" : "500",
+
+		"photo":"https://raw.githubusercontent.com/ahmed-bassiouny/E-Commerce-Json/master/images/5.jpeg"
+	},
+	{
+		"id":6,
+		"name" : "Watch 6",
+		"price" : "600",
+
+		"photo":"https://raw.githubusercontent.com/ahmed-bassiouny/E-Commerce-Json/master/images/6.jpg"
+	}
+]
