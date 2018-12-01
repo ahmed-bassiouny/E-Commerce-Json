@@ -1,0 +1,40 @@
+[
+	{"proten":
+		[ 
+			{
+				"id": 1,
+				"name":"fol",
+				"type":"1"
+			},
+			{
+				"id": 2,
+				"name":"fol 2",
+				"type":"1"
+			},
+			{
+				"id": 3,
+				"name":"fol 3",
+				"type":"1"
+			}
+		]
+	},
+	{"fruits":
+		[ 
+			{
+				"id": 90,
+				"name":"apple",
+				"type":"5"
+			},
+			{
+				"id": 2,
+				"name":"apple 2",
+				"type":"5"
+			},
+			{
+				"id": 3,
+				"name":"apple 3",
+				"type":"5"
+			}
+		]
+	}
+]
