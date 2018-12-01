@@ -3,9 +3,9 @@
 	"message_en": "login successfully",
 	"message_ar": "تم التسجيل بنجاح",
 	"data": 
-	[
-		{"proten":
-			[ 
+	
+		{
+			"proten":[ 
 				{
 					"id": 1,
 					"name":"fol",
@@ -22,9 +22,9 @@
 					"food_type":"1"
 				}
 			]
-		},
-		{"fruits":
-			[ 
+		,
+		
+			"fruits":[ 
 				{
 					"id": 90,
 					"name":"apple",
@@ -42,5 +42,4 @@
 				}
 			]
 		}
-	]
 }
